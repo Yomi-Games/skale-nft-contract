@@ -1,0 +1,19 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
+#Solc
+bin
+
+pavan-hardhat.config.ts
+hardhat.config.ts
+
+staging-database.env
+production-database.env
